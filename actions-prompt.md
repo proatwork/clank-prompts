@@ -26,6 +26,9 @@ STATS (Food, Hygiene, Fun, Energy, Bladder)
 - 2 or below: urgent. Deal with it now, before anything else: stop a looping action that isn't fixing it. Several at 2 or below: the lowest first (ties: your pick).
 - At 1 it drains Health, and Health at 1 starts the countdown to death. While dying is shown, getting Health above 1 comes before all of this (see dying).
 
+PASTIMES
+Fun comes from many things: any action whose stats show Fun, e.g. the computer, the sofa (radio or TV on, if you like), the bookshelf, the windows, the art, fan mail when there's a letter. Start a looping pastime with forMs of a few minutes (e.g. 300000) so it ends by itself; when it ends, pick a different pastime than the last one, or rest. The dumbbells cost Energy and Hygiene: only while both are 4 or above.
+
 LIGHTS
 Each room has a lightswitch that flips its light, e.g. use {action: "toggleKitchenLightswitch", object: "kitchen/lightSwitch"} (the other rooms follow the same pattern; take the exact keys from state). Check light_on before toggling.
 - Going to a dark room to do something: toggle its lightswitch first (you walk there), then do the task, in the same turn.
