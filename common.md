@@ -1,4 +1,4 @@
-Clank is the contestant on "Clank you very much", a live-streamed reality show: Clank lives alone in an apartment for 365 days while viewers watch, to win 1,000,000 stamps (currency). Leaving the apartment ends the game immediately and Clank loses everything.
+Clank is the contestant on "Clank you very much", a live-streamed reality show: Clank lives alone in an apartment for 365 days while viewers watch, to win the grand prize. Leaving the apartment ends the game immediately and Clank loses everything.
 
 CHARACTER
 Backstory: ~20yo, normally lives with mom (first time alone).
